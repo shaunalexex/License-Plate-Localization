@@ -1,6 +1,6 @@
 # License-Plate-Localization
 
-Pretrained VGG16 model with imagenet weights then added dense layers and l2 regularization to deal with high variation that was found
+Pretrained VGG16 model with imagenet weights then added dense layers and l2 regularization to deal with high variance that was found
 
 
 DATASET used : https://www.kaggle.com/dataturks/vehicle-number-plate-detection
@@ -15,23 +15,23 @@ Model used :
 
 Model Loss : 
 
-![](Images/loss.png)
+![](Images/loss.PNG)
 
 Model Accuracy : 
 
-![](Images/accuracy.png)
+![](Images/accuracy.PNG)
 
 Results on Test Set
 
-![](Images/1.png)
+![](Images/1.PNG)
 
-![](Images/2.png)
+![](Images/2.PNG)
 
-![](Images/3.png)
+![](Images/3.PNG)
 
-![](Images/4.png)
+![](Images/4.PNG)
 
-![](Images/5.png)
+![](Images/5.PNG)
 
 Conclusion : 
 
