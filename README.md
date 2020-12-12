@@ -9,6 +9,10 @@ localization_using_vgg16.ipynb : run file to view outcome of model
 
 Indian_Number_plates.json : Dataset downloaded from link above
 
+Framework used : 
+
+Tensorflow and Keras
+
 Model used : 
 
 ![](Images/model_plot.png)
